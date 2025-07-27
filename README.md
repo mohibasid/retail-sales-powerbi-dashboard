@@ -19,7 +19,7 @@ This project features an interactive dashboard built in Power BI to analyze reta
 - Sales peaked in late 2024, indicating seasonal demand patterns
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](retail_dashboard_thumbnail.png)
 
 ## 🛠️ Tools Used
 `Power BI`, `Power Query`, `DAX`, `Data Cleaning`, `Data Modeling`, `Retail Analytics`
