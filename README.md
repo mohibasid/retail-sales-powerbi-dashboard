@@ -11,7 +11,7 @@ This project features an interactive dashboard built in Power BI to analyze reta
 - Time Series Analysis: Monthly sales trends
 - Category/Item Performance: Which products drive the most revenue?
 - Discount Analysis: Revenue comparison between discounted and non-discounted orders
-- Dynamic Filters: Category, Year, Channel
+- Dynamic Filters: Category, Year, Month, Channel
 
 ## 🔍 Insights
 - ~33% of all orders were discounted — suggesting strong reliance on promotions
